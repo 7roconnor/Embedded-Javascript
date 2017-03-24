@@ -1,4 +1,4 @@
-//declare samecolor() here
+s//declare samecolor() here
 function samecolor()
 {
     const doc = document;
@@ -25,7 +25,7 @@ function diffcolor()
         }
         else
         {
-            divs[i].style.backgroundColor = '#00f'; 
+            divs[i].style.backgroundColor = '#00f';
         }
     }
 
